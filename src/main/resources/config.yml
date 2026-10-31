@@ -1,0 +1,18 @@
+main-menu:
+  title: "&8Shop"
+  rows: 3
+  filler: GRAY_STAINED_GLASS_PANE
+
+messages:
+  prefix: "&b[Shop] &r"
+  bought: "&aBought &f{amount}x {item} &afor &f${price}&a."
+  sold: "&aSold &f{amount}x {item} &afor &f${price}&a."
+  not-enough-money: "&cYou need &f${price} &cto buy that."
+  inventory-full: "&cYour inventory is full."
+  no-items: "&cYou don't have any {item} to sell."
+  cannot-buy: "&cThat item can't be bought."
+  cannot-sell: "&cThat item can't be sold."
+  unknown-category: "&cUnknown shop category."
+  no-permission: "&cYou don't have permission."
+  players-only: "&cOnly players can use the shop."
+  reloaded: "&aShop reloaded. Loaded {count} categories."
